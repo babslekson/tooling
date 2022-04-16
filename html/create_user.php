@@ -58,4 +58,7 @@ if (!isAdmin()) {
 		</div>
 	</form>
 </body>
+<footer>
+<h6>vHoreleryheancarh</h6>
+</footer>
 </html>
